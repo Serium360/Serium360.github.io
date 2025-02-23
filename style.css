@@ -196,7 +196,12 @@ i:hover {
     border: none;
     cursor: pointer;
 }
-
+.pregText h2{
+    font-family: 'Khand';
+    font-size: 900;
+    color: rgba(0, 139, 169, 1);
+    font-size: 40px;
+}
 .buttonContBan a {
     text-decoration: none;
     color: rgb(255, 255, 255);
